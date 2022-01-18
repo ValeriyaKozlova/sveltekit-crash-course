@@ -1,4 +1,5 @@
-<script></script>
+<script>
+</script>
 
 <div class="about">
   <h1>About us</h1>

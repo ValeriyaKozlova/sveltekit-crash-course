@@ -1,9 +1,5 @@
 <script>
   let title = 'Welcome'
-
-  const updateTitle = () => {
-    title = 'New title'
-  }
 </script>
 
 <div class="index">
